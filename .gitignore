@@ -1,0 +1,13 @@
+## CodeIgniter 2 Framework Files
+## -----------------------------
+
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+
+## Mac Stuff
+## -----------------------------
+.DS_Store
