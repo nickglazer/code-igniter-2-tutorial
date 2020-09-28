@@ -1,0 +1,1 @@
+Successful article creation!
