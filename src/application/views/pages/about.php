@@ -1,0 +1,1 @@
+I'm learning CodeIgniter2 by making this static news site.
